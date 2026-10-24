@@ -90,10 +90,6 @@ Nuestra parte del trabajo fue el **módulo de RRHH** de un ERP, que luego se int
 | Backend RRHH | [rrhh-backend](https://github.com/florenciaPenaSepulveda/rrhh-backend) | NestJS, Prisma |
 | Frontend del ERP | [erp-front](https://github.com/florenciaPenaSepulveda/erp-front) | React, Vite, TypeScript |
 
-### ⚙️ Otros
-- [ms-users](https://github.com/florenciaPenaSepulveda/ms-users): microservicio de usuarios (NestJS, TypeORM, PostgreSQL).
-- [app-cicd-devops](https://github.com/florenciaPenaSepulveda/app-cicd-devops): aplicación de demostración de CI/CD para el electivo de DevOps.
-
 ---
 
 ## 🛠️ Tecnologías
