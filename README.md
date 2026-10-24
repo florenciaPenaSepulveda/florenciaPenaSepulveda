@@ -19,16 +19,16 @@ Sistema de gestión integrada desarrollado para la empresa **FyC Chile SpA**, do
 
 Cada componente (frontend, backend, microservicios y gateway) está en su propio repositorio.
 
-### 🏫 ClosedAI: gestión escolar
+### 🏫 AulaConecta: gestión escolar
 **Ramo:** Proyecto Integrador de Plataforma
 
 Sistema de gestión escolar con dos tipos de actores, **padres y profesores**: consulta de horarios, publicación de notas y comunicación entre padres y profesores.
 
 | Componente | Repositorio | Tecnologías |
 |---|---|---|
-| Backend | [closedai-backend](https://github.com/florenciaPenaSepulveda/closedai-backend) | NestJS, TypeScript, MySQL |
-| App móvil | [closedai-app](https://github.com/florenciaPenaSepulveda/closedai-app) | React Native / Expo, TypeScript |
-| Web | [closedai-web](https://github.com/florenciaPenaSepulveda/closedai-web) | React, Vite, TypeScript, Tailwind CSS |
+| Backend | [aulaconecta-backend](https://github.com/florenciaPenaSepulveda/aulaconecta-backend) | NestJS, TypeScript, MySQL |
+| App móvil | [aulaconecta-app](https://github.com/florenciaPenaSepulveda/aulaconecta-app) | React Native / Expo, TypeScript |
+| Web | [aulaconecta-web](https://github.com/florenciaPenaSepulveda/aulaconecta-web) | React, Vite, TypeScript, Tailwind CSS |
 
 ### 🥗 Remi Recetas: contra el desperdicio de comida
 **Ramo:** Cloud Computing
